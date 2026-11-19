@@ -60,12 +60,12 @@ AgriLink is a web-based agricultural marketplace that connects farmers directly 
 ## Feasibility and Viability
 The project can be implemented as a web application using open-source technologies. The initial prototype will focus on registration, product listing, buyer requirements, order matching, collective orders, and price calculations.
                                     
-Technical feasibility  ---      Can be developed using open-source technologies
-Economic feasibility   ---      Reduces unnecessary transportation and intermediary costs
-Social feasibility	   ---      Supports farmers and rural communities
-Scalability            ---      Can expand from one village to multiple districts
-Sustainability	       ---      Reduces food wastage and unnecessary transportation
-Accessibility          ---      Can support regional languages and simple mobile interfaces
+1. Technical feasibility  ---      Can be developed using open-source technologies.
+2. Economic feasibility   ---      Reduces unnecessary transportation and intermediary costs.
+3. Social feasibility	   ---      Supports farmers and rural communities.
+4. Scalability            ---      Can expand from one village to multiple districts.
+5. Sustainability	       ---      Reduces food wastage and unnecessary transportation.
+6. Accessibility          ---      Can support regional languages and simple mobile interfaces.
 
 ## Impact and Benefits
 AgriLink aims to increase farmers' income, reduce consumer prices, minimize transportation expenses, improve market accessibility, and reduce agricultural wastage.
