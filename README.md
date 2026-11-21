@@ -56,16 +56,18 @@ AgriLink is a web-based agricultural marketplace that connects farmers directly 
 7. Future Enhancements
    AI-based demand forecasting, crop price prediction, route optimization, multilingual voice assistance, and integration with Farmer Producer Organizations (FPOs) can be implemented to improve scalability and efficiency.
 
+<img width="1110" height="545" alt="image" src="https://github.com/user-attachments/assets/f52a06dc-c8e1-4cf1-98e5-20905ee19cf3" />
+<img width="1199" height="1312" alt="image" src="https://github.com/user-attachments/assets/a4d24c6b-9dc8-4fd5-bee2-2293137576e8" />
 
 ## Feasibility and Viability
 The project can be implemented as a web application using open-source technologies. The initial prototype will focus on registration, product listing, buyer requirements, order matching, collective orders, and price calculations.
                                     
-1. Technical feasibility  ---      Can be developed using open-source technologies.
-2. Economic feasibility   ---      Reduces unnecessary transportation and intermediary costs.
-3. Social feasibility	   ---      Supports farmers and rural communities.
-4. Scalability            ---      Can expand from one village to multiple districts.
-5. Sustainability	       ---      Reduces food wastage and unnecessary transportation.
-6. Accessibility          ---      Can support regional languages and simple mobile interfaces.
+1. Technical feasibility   ---     Can be developed using open-source technologies.
+2. Economic feasibility    ---     Reduces unnecessary transportation and intermediary costs.
+3. Social feasibility	   ---     Supports farmers and rural communities.
+4. Scalability             ---     Can expand from one village to multiple districts.
+5. Sustainability	       ---     Reduces food wastage and unnecessary transportation.
+6. Accessibility           ---     Can support regional languages and simple mobile interfaces.
 
 ## Impact and Benefits
 AgriLink aims to increase farmers' income, reduce consumer prices, minimize transportation expenses, improve market accessibility, and reduce agricultural wastage.
@@ -78,6 +80,25 @@ We can measure the success of our project through:
 - Reduction in transportation costs per kg.
 - Percentage of produce sold without unnecessary intermediaries.
 - Consumer savings generated.
+
+Benefits:
+
+* Increased Farmers' Income – Farmers receive a larger share of the selling price by reducing intermediaries.
+
+* Reduced Consumer Prices – Consumers can purchase fresh agricultural products at affordable prices.
+
+* Direct Market Access – Farmers can connect directly with consumers, retailers, hotels, and bulk buyers.
+
+* Collective Selling – Small farmers combine their produce to fulfill larger orders and improve their bargaining power.
+
+* Reduced Transportation Costs – Shared logistics and common collection points reduce delivery expenses.
+
+* Transparent Pricing – Farmers and buyers can view the price breakdown, transportation charges, and earnings.
+
+* Reduced Food Wastage – Faster connections between farmers and buyers help sell produce before it spoils.
+
+* Improved Market Efficiency – Smart matching saves time and simplifies the agricultural supply chain.
+
 
 ## Research and References
 1. SmartAgriConnect. Farmer-to-Consumer Agricultural Marketplace. GitHub Repository. Available at: https://github.com/MICHAELGAUTHAM/SmartAgriConnect
